@@ -1,0 +1,19 @@
+*{
+    font-family: 'Raleway';
+}
+.p_section{
+    width: 100%;
+    min-height: 100vh;
+}
+.title{
+    font-weight: 800;
+}
+.color1{
+    background-color: #f5f7fa;
+}
+.color2{
+    background-color: #ff7599;
+}
+.color3{
+    background-color: #9466ea;
+}
